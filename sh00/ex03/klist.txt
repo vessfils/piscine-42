@@ -1,0 +1,5 @@
+Credentials cache: API:4B43E52C-9870-46A5-AA5E-03AF052A6F5C
+        Principal: jcampagn@42.FR
+
+  Issued                Expires               Principal
+Aug  2 15:10:12 2021  Aug  9 15:10:12 2021  krbtgt/42.FR@42.FR
